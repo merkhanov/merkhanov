@@ -1,5 +1,5 @@
 hey, i am yernar
 
-full-stack developer
+ai engineer
 
-grinding tokenolo.com
+grinding knowledge
